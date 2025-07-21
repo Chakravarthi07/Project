@@ -1,0 +1,306 @@
+[
+  {
+    "question": "1 \n \nCLASS 1 SAMPLE PAPER 1 \n \n \nSECTION-01   LOGICAL REASONING",
+    "images": "images/page1_image1.jpeg",
+    "option_images": [
+      "images/page1_image2.png",
+      "images/page1_image3.png",
+      "images/page1_image4.png",
+      "images/page1_image5.png"
+    ]
+  },
+  {
+    "question": "Find the next figures in the figure pattern given below. \n \n \n \n \n \n[A] \n \n \n[B] \n \n \n[C] \n \n \n[D] \n \nAns. [D]",
+    "images": "images/page1_image6.png",
+    "option_images": [
+      "images/page1_image7.png",
+      "images/page1_image8.png",
+      "images/page1_image9.png",
+      "images/page1_image10.png"
+    ]
+  },
+  {
+    "question": "Complete the number pattern. \n \n \n \n[A] \n \n[B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "2 \n \n \n[C] \n \n[D] \n \nAns [C]",
+    "images": "images/page2_image1.jpeg",
+    "option_images": [
+      "images/page2_image2.png",
+      "images/page2_image3.png",
+      "images/page2_image4.png",
+      "images/page2_image5.png"
+    ]
+  },
+  {
+    "question": "In the questions given below, the series with one or more \nterms figures are missing marked with ‘?’. Choose the \ncorrect option to replace the ‘?’ mark(s). \n \n \n[A] 19 \n[B] 18 \n \n[C] 17 \n[D] 20 \nAns [C]",
+    "images": "images/page2_image6.jpeg",
+    "option_images": [
+      "images/page2_image7.png"
+    ]
+  },
+  {
+    "question": "Number of the groups of 9 paper clips (\n) shown here is  \n \n \n[A] 2 \n[B] 3 \n \n[C] 9 \n[D] 27 \nAns [D]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "How many bananas are kept outside the basket? \n \n \n[A] 1 \n[B] 2 \n \n[C] 3 \n[D] 4",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "3 \n \nAns [D] \n \nSECTION-02   MATHEMATICS",
+    "images": "images/page3_image1.jpeg",
+    "option_images": [
+      "images/page3_image2.png"
+    ]
+  },
+  {
+    "question": "A programme of children ended at the time shown on the \nclock. At what time did the programme end? \n \n \n[A] 6: 00 \n[B] 5: 20 \n \n[C] 7: 00 \n[D] None of these \nAns [B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Suresh had 112 bookmarks. He gives some bookmarks to her \npupils, he had 13 bookmarks left. How many bookmarks did \nhe give away? \n \n[A] 110 \n[B] 125 \n \n[C] 99 \n[D] 130 \nAns [C]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "4",
+    "images": "images/page4_image1.jpeg",
+    "option_images": [
+      "images/page4_image2.jpeg",
+      "images/page4_image3.png",
+      "images/page4_image4.png",
+      "images/page4_image5.png"
+    ]
+  },
+  {
+    "question": "Count and write the amount of money. \n \n \n[A] Rs 70.00 [B] Rs 76.01 \n \n[C] Rs 75.40 [D] Rs 80.04 \nAns [B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Six cats are numbered as follows: \n \n \n \nWhich cat shows the number lying between 40 and 50 and also \nhaving 3 at ones place? \n \n[A] \n \n[B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "5 \n \n \n[C] \n [D] \n \nAns [B]",
+    "images": "images/page5_image1.jpeg",
+    "option_images": [
+      "images/page5_image2.png",
+      "images/page5_image3.png",
+      "images/page5_image4.png",
+      "images/page5_image5.png"
+    ]
+  },
+  {
+    "question": "Sonia bought 45 candies. She gave 22 cookies to her sister. \nHow many candies are left with her? \n \n[A] 42 \n[B] 23 \n \n[C] 50 \n[D] 43 \nAns [B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Which of the following is greatest? \n \n \nAns [D]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Write ‘+’ or ‘–’ in each \n to complete the number \nsentence. \n \n \n \n[A] +, + \n[B] +, – \n \n[C] –, – \n[D] –, + \nAns [B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "6",
+    "images": "images/page6_image1.jpeg",
+    "option_images": [
+      "images/page6_image2.png",
+      "images/page6_image3.png"
+    ]
+  },
+  {
+    "question": "Object _______________ is the heaviest. \n \n[A] 3 \n[B] 5 \n \n[C] 4 \n[D] 1 \nAns [C] \n \nDirection (Q.No.14 & 15): Study the diagram below and \nanswer the questions 14 and",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "The length of BD is 1 cm less than the total length of AB \nand AD. \n \nCD is __________ cm longer than BD. \n \n[A] 5 \n[B] 4 \n \n[C] 8 \n[D] 9 \nAns [B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "The length of CD is twice that of BC. What is the length of \nall the sides of triangle BCD? \n \n[A] 15 cm \n[B] 31 cm \n \n[C] 42 cm \n[D] 38 cm \nAns [A] \nA\nB\nC\nD\n4 cm\n3 cm\n10 cm",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "7",
+    "images": "images/page7_image1.jpeg",
+    "option_images": []
+  },
+  {
+    "question": "Which of the following clocks shows 30 minutes after 4 \nO’clock? \n \n[A] \n \n \n[B] \n \n \n[C] \n \n \n[D] \n \nAns [B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Sent gold High School has 453 students. It has 23 more \nstudents than kiddy gold High School. How many students \ndoes kiddy gold High School have? \n \n[A] 400 \n[B] 430 \n \n[C] 403 \n[D] 340 \nAns [B] \n \n12\n6\n5\n4\n3\n2\n1\n11\n10\n9\n8\n7\n12\n6\n5\n4\n3\n2\n1\n11\n10\n9\n8\n7\n12\n6\n5\n4\n3\n2\n1\n11\n10\n9\n8\n7\n12\n6\n5\n4\n3\n2\n1\n11\n10\n9\n8\n7",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "8",
+    "images": "images/page8_image1.jpeg",
+    "option_images": [
+      "images/page8_image2.jpeg",
+      "images/page8_image3.jpeg",
+      "images/page8_image4.jpeg",
+      "images/page8_image5.jpeg"
+    ]
+  },
+  {
+    "question": "Tanshu spent Rs 35.70 on a ball and Rs 50.30 on a toy car. \nHow much did he spend altogether? \n \n[A] Rs 80 \n[B] Rs 85 \n \n[C] Rs 58 \n[D] Rs 86 \nAns [D]",
+    "images": "images/page8_image6.png",
+    "option_images": [
+      "images/page8_image7.png",
+      "images/page8_image8.png",
+      "images/page8_image9.png"
+    ]
+  },
+  {
+    "question": "Which tree has apples more than 6 but less than 9? \n \n[A] \n [B] \n \n \n[C] \n [D] \n \nAns [B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Which abacus shows 15 – 13 = 13? \n \n[A] \n \n[B] \n \n \n[C] \n [D] \n \nAns [C]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "9",
+    "images": "images/page9_image1.jpeg",
+    "option_images": [
+      "images/page9_image2.png",
+      "images/page9_image3.png",
+      "images/page9_image4.png",
+      "images/page9_image5.png"
+    ]
+  },
+  {
+    "question": "Which of the following is smallest? \n \n \nAns [C]",
+    "images": "images/page9_image6.png",
+    "option_images": []
+  },
+  {
+    "question": "6 hundreds 3 tens 2 ones – 3 hundreds 2 tens 6 ones = \n____________. \n \n[A] 306 \n[B] 360 \n \n[C] 603 \n[D] 305 \nAns [A]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "What does  \n  stand for ? \n \n[A] 7 \n[B] 5 \n \n[C] 3 \n[D] 4 \nAns [D]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "A number bond is shown below. \n \nWhat is the value of M × N? \n \n \n[A] 35 \n[B] 43 \n \n[C] 52 \n[D] 25",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "10 \n \nAns [D]",
+    "images": "images/page10_image1.jpeg",
+    "option_images": [
+      "images/page10_image2.png",
+      "images/page10_image3.png",
+      "images/page10_image4.png"
+    ]
+  },
+  {
+    "question": "Tanya has following two pencils. \n \n \n \n \nFind the total length of both the pencils. \n \n[A] 7 units \n[B] 6 units \n \n[C] 5 units \n[D] 9 units \nAns [D]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "There were 298 hens and cows on a farm. \n \nThere were 153 hens. \n \nHow many cows were there? \n \n[A] 138 \n[B] 140 \n \n[C] 145 \n[D] 144 \nAns [C]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Write the correct time for the clock shown below. \n \n \n[A] 5 : 15 \n[B] 5 : 40 \n \n[C] 6 : 20 \n[D] 3 : 20 \nAns [A]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "11",
+    "images": "images/page11_image1.jpeg",
+    "option_images": [
+      "images/page11_image2.png",
+      "images/page11_image3.png",
+      "images/page11_image4.jpeg"
+    ]
+  },
+  {
+    "question": "Sumit has following flowers and balloons. \n \n \n \nWhich statement is true? \n \n[A] Flowers are more than balloons. \n \n[B] Flowers are equal to balloons. \n \n[C] Flowers are less than balloons \n \n[D] Balloons are 2 more than flowers. \nAns [C]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "A bag of rice weighs 3 kg. How much do 6 bags of rice \nweight? \n \n[A] 18 kg \n[B] 24 kg \n \n[C] 15 kg \n[D] 17 kg \nAns [A]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "If only all Saturdays and Sundays are holidays, then in the \nmonth of December 2014 how many holidays will we get? \n \n \n \n[A] 6 \n[B] 8 \n \n[C] 10 \n[D] 7",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "12 \n \nAns [B] \n \nACHIEVER SECTION",
+    "images": "images/page12_image1.jpeg",
+    "option_images": [
+      "images/page12_image2.png"
+    ]
+  },
+  {
+    "question": "How much do the counters add up to? \n \n \n[A] 253 \n[B] 235 \n \n[C] 325 \n[D] 532 \nAns [A]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "The packet of rice has a mass of _______________ kg. \n \nFlour\n0\n5\n10\n15",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "13 \n \n \n[A] 9 \n[B] 15 \n \n[C] 18 \n[D] 12 \nAns [D]",
+    "images": "images/page13_image1.jpeg",
+    "option_images": [
+      "images/page13_image2.png",
+      "images/page13_image3.png"
+    ]
+  },
+  {
+    "question": "Fill in the blank:  \n \nThe book is ________________ the lamp. \n \n \n \n[A]Equal to  \n[B] Lighter than \n \n[C] Heavier than [D] None of these \nAns [B]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Which of the following is the CORRECT way of writing 8 \nless than 14? \n \n[A] 14 – 8 = 6 \n[B] 14 + 8 = 6 \n \n[C] 14 – 6 = 8 \n[D] 14 + 6 = 8 \nAns [A]",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "Tonu gave Rs 50 to buy this ball. How much money will he \nget back? \n \n \n[A]  Rs 15 \n[B]Rs  25 \n \n[C]   Rs 20 \n[D]   Rs 17",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "14 \n \nAns [B]",
+    "images": "images/page14_image1.jpeg",
+    "option_images": []
+  }
+]
